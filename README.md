@@ -51,12 +51,8 @@ Make sure you have the following installed on your machine:
 
 Make sure to replace `{id}` with the actual item ID when using the respective endpoints.
 
-## Build
+## Contribution
 
-Build the project using Gradle:
-
-```bash
-gradle build
 ```
 
 ## Contribution
